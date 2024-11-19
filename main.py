@@ -12,10 +12,10 @@ requests.packages.urllib3.disable_warnings()
 
 
 # WOL
-bemfa_broker = ''
-bemfa_port = 1883
-bemfa_topic = ''
-bemfa_client_id = ''
+bemfa_broker = 'bemfa.com'
+bemfa_port = 9501
+bemfa_topic = 'PC002'
+bemfa_client_id = '5541aad005604166bea3574d2db82e50'
 
 cookie = ''
 webhook = ''
